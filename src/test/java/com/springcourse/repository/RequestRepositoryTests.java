@@ -17,7 +17,6 @@ import org.springframework.test.context.junit4.SpringRunner;
 import com.springcourse.domain.Request;
 import com.springcourse.domain.User;
 import com.springcourse.domain.enums.RequestState;
-import com.springcourse.domain.enums.Role;
 
 @RunWith(SpringRunner.class)
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
